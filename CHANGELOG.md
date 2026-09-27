@@ -1,3 +1,13 @@
+## v1.0.2 — 2026-09-27
+
+## Changed
+
+- The app is no longer available for Intel-based Macs
+
+## Fixed
+
+- No fixes in this release
+
 ## v1.0.1 — 2026-09-27
 
 ### Added
