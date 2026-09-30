@@ -13,20 +13,20 @@
 
 ### 1. Download [Appinapp](appinapp.mutawirr.uz/download)
 
-<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/download-page.png" style="border-radius:7px;width:100%">
+<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/download-page.png" style="border-radius:7px;width:50%">
 
 ### 2. Move to Applications folder
 
-<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/move-to-applications.png" style="border-radius:7px;width:100%">
+<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/move-to-applications.png" style="border-radius:7px;width:50%">
 
 ### 3. Install widgets you want to use.
 
-<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/install-widget.png" style="border-radius:7px;width:100%">
+<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/install-widget.png" style="border-radius:7px;width:50%">
 
 ### 4. Add them to your desktop!
 
-<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/add-widgets.png" style="border-radius:7px;width:100%">
+<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/add-widgets.png" style="border-radius:7px;width:50%">
 
 ### 5. And ENJOY!
 
-<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/widgets.png" style="border-radius:7px;width:100%">
+<img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/widgets.png" style="border-radius:7px;width:50%">
