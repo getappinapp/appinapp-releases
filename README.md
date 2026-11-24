@@ -30,3 +30,17 @@
 ### 5. And ENJOY!
 
 <img src="https://raw.githubusercontent.com/developerbola/appinapp-releases/main/.github/images/widgets.png" style="border-radius:7px;width:50%">
+
+---
+
+Follow us on social media
+
+[![X badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/getappinapp)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=fff&style=for-the-badge)](https://pinterest.com/getappinapp)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/getappinapp)
+
+or our communities
+
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge)](https://reddit.com/r/appinapp)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/getappinapp)
+
